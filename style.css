@@ -2,22 +2,18 @@
   margin: 0;
   padding: 0;
 }
-
 .container {
   text-align: center;
   background-color: #1F2833;
   color: #C5C6C7;
   font-family: Verdana, Geneva, Tahoma, sans-serif;
 }
-
 a {
   color: #C5C6C7;
 }
-
 .item-list {
   list-style: none;
 }
-
 .navigation > .item-list {
   display: flex;
   flex-wrap: wrap;
@@ -26,28 +22,22 @@ a {
   margin-bottom: 15px;
   background-color: #45A29E;
 }
-
 h1, h2 {
   color: #66FCF1;
 }
-
 h2 {
   margin-bottom: 15px;
 }
-
 .section-item {
   margin: 20px;
 }
-
 .section-item .item-list {
   display: inline-block;
   text-align: left;
 }
-
 code {
   white-space: pre;
 }
-
 footer > .item-list {
   display: flex;
   flex-wrap: wrap;
@@ -55,7 +45,6 @@ footer > .item-list {
   padding: 15px;
   background-color: #45A29E;
 }
-
 .logo {
   width: 40px;
 }
